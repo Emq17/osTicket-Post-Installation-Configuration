@@ -4,7 +4,7 @@
 
 <h1 align="center">Post-Install Configuration</h1>
 
-- This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+Here I outline the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies</h2>
 
