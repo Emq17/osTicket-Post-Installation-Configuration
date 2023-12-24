@@ -1,5 +1,6 @@
-![Screen Shot 2023-12-24 at 3 47 17 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/4b5a6b81-f6a2-4751-8539-b20fde7e916b)
-
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
