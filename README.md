@@ -16,7 +16,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 - Windows 10</b> (22H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Installation Objectives</h2>
 
 - Configure Roles and Departments
 - Configure Teams and allow anyone to create tickets
