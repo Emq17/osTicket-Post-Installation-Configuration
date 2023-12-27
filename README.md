@@ -76,33 +76,41 @@ Here I outline the post-install configuration of the open-source help desk ticke
 >**Note***
 >*Departments are just the collection of Agents in a department.* 
 
-- Click the `Admin Panel` on the top-right of the page.
-- Click `Agents`
-- Click `Departments`
-- Click `Add a New Department`
+- Click `Departments` to the right of `Roles`
+- Click `Add New Department`
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/c9eeb70b-cca8-4d36-951e-21af1757b3d8)
+![Screen Shot 2023-12-27 at 3 30 03 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/b10286f7-5232-4a60-b28d-000a21957293)
 
-- Create a Department called **System Administrators**
-- Click `Create Dept`
+- Create a Department called "System Administrators" with its default settings
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/72e15e09-5e5e-49e8-a5f3-18f3e8471dab)
+![Screen Shot 2023-12-27 at 5 21 13 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/e865b3d6-5505-4adb-8a3b-fb5522c08fe8)
 
 <h3>Creating Teams</h3>
 
 >**Note***
 >*Having Agents from different Departments assigned to a Team will supersede the parameters of the Agents’ Department rules. For example, you can create a Help Topic associated with a particular product you produce, and assign it to a Team of specialist Agents from different Departments.*
+
 - Inside the `Admin Panel`
 - Click on `Agents`
 - Click on `Teams`
-- Click on `Add New Teams`
+- Click on `Add New Team`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/8583d4ac-7a05-4260-be53-2791d7edcced)
+![Screen Shot 2023-12-27 at 5 28 02 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/175235cb-76c7-4f78-bde2-086151f7d1fe)
 
 - Create a Team called **Level II Support**
+- Add yourself as a member to the team under `Members`
 - Click on `Create Team`
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/e4c83283-2211-410f-a9c3-00c1ed48a4ad)
+![Screen Shot 2023-12-27 at 5 35 02 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/5c1226ad-2f35-4430-9ff1-5ea6b18b1e11)
+
+![Screen Shot 2023-12-27 at 5 35 26 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/46204f10-ec9b-46cf-8d01-2ba88af8fd15)
+
+- Now go to `Settings`
+- Click `Users`
+- Make sure `Registration Required` is not checked
+- Save changes
+
+![Screen Shot 2023-12-27 at 5 39 49 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/e4eaf3d3-1cee-4571-9cc2-b908d0a73352)
 
 <h3>Creating Agents</h3>
 
