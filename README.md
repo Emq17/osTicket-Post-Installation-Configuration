@@ -38,9 +38,9 @@ Here I outline the post-install configuration of the open-source help desk ticke
 <h3>Creating Roles</h3>
 
 >**Note***
->**Roles represent the permissions given to Agents based on their access to specific Departments. Each Role comes with a customizable set of permissions that can be enabled or disabled. You can create an unlimited number of roles and assign them to Agents with access to different departments.*
+>*"Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments."* - [osTicket Documentation ](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
 
-- Right now we are on the `Agent` panel because we can see it give us the option to switch to `Admin` on the top right of your screen
+- So right now we are on the `Agent` panel because we can see it give us the option to switch to `Admin` on the top right of your screen
 
 ![Screen Shot 2023-12-27 at 2 51 38 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/b1a40ba4-72dd-4a62-ac8e-0fe3b03d2daa)
 
