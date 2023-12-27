@@ -127,18 +127,14 @@ Here I outline the post-install configuration of the open-source help desk ticke
 - Using the Required Credenitals **(In Bold)**
      - `First Name:` **Jane**
      - `Last Name:` **Doe**
-     - `Email Address:` **jane.doe@osTicket.com**
+     - `Email Address:` **janedoe@osTicket.com**
      - `Username:` **jane.doe**
-     - Click on `Set Password` 
+     - Click on `Set Password`
+     - Uncheck `Send the agent a password reset email` then use "Password1234" for password
+     - Uncheck `Require password change at next login`
+     - Click `Set`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/ac82c903-6a0b-4750-8fd7-53b6ca826efe)
-
- - Uncheck "Send the agent a password reset email"
- - Create a Password
- - Uncheck "Require password change at next login"
- - CLick `Set`
-
- ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/f156e82e-896d-41db-9382-ee597ce80703)
+![Screen Shot 2023-12-27 at 5 47 07 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/839c7ef8-c29f-421b-af6e-7b44d2caed77)
 
 - CLick the `Access` tab:
    - Assign Jane's `Primary Department` to **System Administrators**
