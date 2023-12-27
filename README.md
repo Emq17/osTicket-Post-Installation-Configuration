@@ -9,30 +9,28 @@ Here I outline the post-install configuration of the open-source help desk ticke
 <h2>Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems</h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles and Departments
--  Configure Teams and allow anyone to create tickets
+- Configure Teams and allow anyone to create tickets
 - Now we will configure agents/workers and user/customers
 - Configure SLA
 - Configure Help Topics
 
 <h2>Prerequisites and Installation</h2>
 
-- _This Tutorial assumes that you went through the <a href="https://github.com/CarlosAlvarado0718/osticket-prereqs">"Prerequisites and Installation"</a> tutorial to be inside osTicket._
+- _This walkthrough assumes that you went through the <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">"Prerequisites and Installation"</a> demonstration to get inside osTicket_
 
----
 <h1>Configuration Steps</h1>
 
-
-**osTicket Admin Panel Configuration Guide**
+# Admin Panel
 
 **Welcome to osTicket! Let's start setting up your admin panel for efficient support ticket management.**
 
