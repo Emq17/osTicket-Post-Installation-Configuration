@@ -168,19 +168,19 @@ Here I outline the post-install configuration of the open-source help desk ticke
 - Navigate to `Users`
 - Click `Add User` 
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/a3ca0589-1cab-4344-92d2-e00e49631546)
+![Screen Shot 2023-12-27 at 6 04 15 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/e607ec23-2d23-4571-a705-add63cd243cc)
 
-- Make the User's `Email Address`: **karen@osticket.com**
+- Make the User's `Email Address`: **Karen@osticket.com**
 - `Username`: **Karen Karen**
 - Click `Add User`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/e32cd67b-b900-4983-9cf2-1d1ebaa927ba)
+![Screen Shot 2023-12-27 at 6 07 04 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/73953ab6-c599-4cc1-8feb-7856975dbfcf)
 
-- Create another user, following the same steps but `Email address`: **ken@osticket.com**
+- Create another user, following the same steps but `Email address`: **Ken@osticket.com**
 - `Username`: **Ken Ken**
 - Click `Add User`
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/9ef34fbd-e2d2-4f64-97e0-82646cc0b5b2)
+![Screen Shot 2023-12-27 at 6 08 25 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/c02811af-1bcd-4b48-947d-cee545beeb2e)
 
 <h3>Creating SLA's</h3>
 
