@@ -37,7 +37,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 > **Note***
 >**Admin vs Agent:** *Admin Panel is used by the Administrator of the osTicketing System whereas Agent is used by the Workers (Helpdesk Professionals).*
 
-<h3>&#9312;Creating Roles</h3>
+<h3>Creating Roles</h3>
 
 >**Note***
 >*Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.*
@@ -61,7 +61,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 ---
 
-<h3>&#9313Creating Departments</h3>
+<h3>Creating Departments</h3>
 
 >**Note***
 >*Departments are collections of Agents in a department.* 
@@ -78,7 +78,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/72e15e09-5e5e-49e8-a5f3-18f3e8471dab)
 
-<h3>&#9314Creating Teams</h3>
+<h3>Creating Teams</h3>
 
 >**Note***
 >*Having Agents from different Departments assigned to a Team will supersede the parameters of the Agents’ Department rules. For example, you can create a Help Topic associated with a particular product you produce, and assign it to a Team of specialist Agents from different Departments.*
@@ -94,7 +94,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/e4c83283-2211-410f-a9c3-00c1ed48a4ad)
 
-<h3>&#9314Creating Agents</h3>
+<h3>Creating Agents</h3>
 
 >**Note***
 >*Agents are given access to the help desk with the intent to respond and resolve the tickets.*
@@ -149,7 +149,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
   ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/62c95383-8b87-4c48-b3e4-f9537090af11)
 
-<h3>&#9315Creating Users</h3>
+<h3>Creating Users</h3>
 
 >**Note***
 >*Users are the individuals who submit tickets to your support team.*
@@ -172,7 +172,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/9ef34fbd-e2d2-4f64-97e0-82646cc0b5b2)
 
-<h3>&#9316Creating SLA</h3>
+<h3>Creating SLA's</h3>
 
 >**Note***
 >*The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.*
@@ -201,7 +201,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
   ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/e9eca7cf-a46f-4f41-b6d6-ce59c2355876)
 
-<h3>&#9317Creating Help Topics</h3>
+<h3>Creating Help Topics</h3>
 
 >**Note***
 >*Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low.*
