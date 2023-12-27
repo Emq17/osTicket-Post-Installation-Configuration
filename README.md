@@ -24,7 +24,7 @@ Here I outline the post-install configuration of the open-source help desk ticke
 - Configure SLA
 - Configure Help Topics
 
-<h2>Prerequisites and Installation</h2>
+<h2>Prerequisites</h2>
 
 - _This walkthrough assumes that you went through the <a href="https://github.com/Emq17/osTicket-Prerequisites-and-Installation/tree/main">"Prerequisites and Installation"</a> demonstration to get inside osTicket_
 
