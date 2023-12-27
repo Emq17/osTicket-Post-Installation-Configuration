@@ -35,15 +35,16 @@ Here I outline the post-install configuration of the open-source help desk ticke
 **Welcome to osTicket! Let's start setting up your admin panel for efficient support ticket management.**
 
 > **Note***
->**Admin vs Agent:** *Admin Panel is used by the Administrator of the osTicketing System whereas Agent is used by the Workers (Helpdesk Professionals).*
+>**Admin vs Agent:** *The Admin panel is used by the Administrator of the osTicketing System carrying out tasks like setting up the tickets, defining roles & SLA's, and general administrative duties (ex. Sys Admins) whereas Agent is used by the Workers (Helpdesk Professionals) who actually uses the platform instead of setting things up and solving user problems.*
 
 <h3>Creating Roles</h3>
 
 >**Note***
->*Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.*
-- Enter Admin Role through the `Admin Panel`
+>**Roles represent the permissions given to Agents based on their access to specific Departments. Each Role comes with a customizable set of permissions that can be enabled or disabled. You can create an unlimited number of roles and assign them to Agents with access to different departments.*
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/af784a70-038e-4760-a381-5d8619e44e37)
+- Right now we are on the `Agent` panel because we can see it give us the option to switch to `Admin` on the top right of your screen
+
+![Screen Shot 2023-12-27 at 2 51 38 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/b1a40ba4-72dd-4a62-ac8e-0fe3b03d2daa)
 
 
 - Head to `Agents` 
