@@ -32,8 +32,6 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 # Admin Panel
 
-**Welcome to osTicket! Let's start setting up your admin panel for efficient support ticket management.**
-
 > **Note***
 >**Admin vs Agent:** *The Admin panel is used by the Administrator of the osTicketing System carrying out tasks like setting up the tickets, defining roles & SLA's, and general administrative duties (ex. Sys Admins) whereas Agent is used by the Workers (Helpdesk Professionals) who actually uses the platform instead of setting things up and solving user problems.*
 
