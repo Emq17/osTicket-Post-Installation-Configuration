@@ -44,26 +44,37 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 ![Screen Shot 2023-12-27 at 2 51 38 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/b1a40ba4-72dd-4a62-ac8e-0fe3b03d2daa)
 
+- Click `Admin` 
+- Double Click `Agents` 
 
-- Head to `Agents` 
+![Screen Shot 2023-12-27 at 3 16 33 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/925df49a-14a3-47ee-9f75-a8d425ef50bd)
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/dee070c8-31f9-44d4-837f-162a55963f6d)
+- And then `Roles`
 
+![Screen Shot 2023-12-27 at 3 19 22 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/054aa932-2f82-47ce-8af4-5878b8a7be0f)
 
-- Add a new role called **Supreme Admin**
-  
+- Find `Add New Role`
+- Name it "Supreme Admin"
+- Click on `Permissions` and check every single box ("Assign", "Close", "Create", etc). Use `tab` and `spacebar`
+
+![Screen Shot 2023-12-27 at 3 23 16 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/32e4d098-b3ff-45b6-bb4c-2cbd003a2a7e)
+
+- Click on `Tasks` and `Knowledgebase` and do the same
+- Click on `Add Role` 
+
+![Screen Shot 2023-12-27 at 3 23 59 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/4305978c-886d-4b99-8d78-8587be9221e7)
+
+![Screen Shot 2023-12-27 at 3 24 18 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/9b162427-beaf-4c46-a913-b12ef9502bca)
+
 > **Note***
->This role should have all permissions over the Ticketing System!
-
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/8c1eff12-7299-4ef4-86c3-c1bd3be79881)
-
+>This role should now have all permissions over the Ticketing System
 
 ---
 
 <h3>Creating Departments</h3>
 
 >**Note***
->*Departments are collections of Agents in a department.* 
+>*Departments are just the collection of Agents in a department.* 
 
 - Click the `Admin Panel` on the top-right of the page.
 - Click `Agents`
