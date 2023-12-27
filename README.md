@@ -121,9 +121,6 @@ Here I outline the post-install configuration of the open-source help desk ticke
 - Click on `Agents`
 - CLick on `Agent`
 - Click on `Add a New Agent`
-
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/162f5a72-c17f-4ee7-8952-4694647c06c0)
-
 - Using the Required Credenitals **(In Bold)**
      - `First Name:` **Jane**
      - `Last Name:` **Doe**
@@ -139,29 +136,28 @@ Here I outline the post-install configuration of the open-source help desk ticke
 - CLick the `Access` tab:
    - Assign Jane's `Primary Department` to **System Administrators**
    - Assign Jane's `Role` to **Supreme Admin**
-- Underneath `Extended Access`tab:
-    - Assign Jane to `Support Department`
-    - Assign Jane's `Role` to **Supreme Admin**
-    - Click `Save Changes`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/e315cccd-d69b-4027-b00d-8f7540ab0b27)
+![Screen Shot 2023-12-27 at 5 55 47 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/cc3ec3e2-7cf4-4b25-b616-71351f5c9f1a)
 
-- Click the `Teams` tab:
-  - Assign Jane to **Level II Support**
--  Click on `Create`
+ 
+- Underneath `Teams`tab:
+    - Assign Jane to `Level II Support`
+    - Click `Add`
+    - Click `Create`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/d1acc2f4-a6d8-4b0a-a7d2-c3b155eec0eb)
+![Screen Shot 2023-12-27 at 5 56 50 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/89e5c107-3ff0-49ba-a113-0febe5b8569d)
 
 - Create another Agent following the same steps, using the name **John Doe**
+ - Don't forget to set password
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/0157ad60-414f-4470-8a6c-07ac9408104e)
+![Screen Shot 2023-12-27 at 5 59 56 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/094e3a5d-e3ba-4972-82c2-cf65d45b91a5)
 
-- Make John's `Department`: **Level I Support**
+- Make John's `Primary Department`: **Support**
 - Assign John's `Role`: View Only
 - Underneath `Extended Access`: Support
 - Click on `Create`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/62c95383-8b87-4c48-b3e4-f9537090af11)
+![Screen Shot 2023-12-27 at 6 01 53 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/4936b9ba-1edd-4c74-b096-46510cc89211)
 
 <h3>Creating Users</h3>
 
