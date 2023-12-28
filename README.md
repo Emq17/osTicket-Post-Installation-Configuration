@@ -225,22 +225,23 @@ Here I outline the post-install configuration of the open-source help desk ticke
 - Click on `Help Topic`
 - Click `Add New Help Topic`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/4ee33849-7948-4749-aa3b-128453973455)
+![Screen Shot 2023-12-28 at 3 35 13 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/d8d220d3-5c38-4f5a-b2b2-0f6af8430d7e)
 
 - Create Help Topics with the following names:
     - **Business Critical Outage**
     - **Personal Computer Issues**
     - **Equipment Request**
     - **Password Reset**
+- Leave everything with default settings
 - `Internal Notes` can be used, but not necessary
 - Click `Add Topic`
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/f162a73d-063f-440e-94de-27c026b6a7eb)
+![Screen Shot 2023-12-28 at 3 37 55 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/e0f7c732-4c39-4981-89f3-5add336ea2b2)
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/ec00fd9d-f9dc-4aec-a2ae-a03427a1535b)
+![Screen Shot 2023-12-28 at 3 44 47 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/f425077e-67f3-4f56-a648-be3f1dfb2730)
 
 ---
 
-  <h1>ALL DONE!! CONGRATS!! </h1>
-
-  <h3>NEXT TUTORIAL:  <a href="https://github.com/CarlosAlvarado0718/osTicket_Lifecycle">"Ticket Lifecycle Examples"</a>  </h3>
+- Great job. You have configured everything that we needed
+- We'll go ahead and wrap things up for this lab & I'll meet you on over to the next one where we will practice creating, triaging, and solving tickets.
+  <h3>NEXT TUTORIAL:  <a href="https://github.com/Emq17/osTicket-Ticket-Lifecycle-Examples">"Ticket Lifecycle Examples"</a>  </h3>
