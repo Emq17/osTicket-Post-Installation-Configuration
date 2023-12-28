@@ -188,16 +188,16 @@ Here I outline the post-install configuration of the open-source help desk ticke
 >*The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.*
 
 
-- Click on the `Admin Panel`
+- Click on `Admin Panel`
 - Navigate to `Manage` tab
 - Click `SLA`
 - Click `Add New SLA Plan`
 
-![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/ddb8f02a-aeb9-4c16-8ca1-f75b0e6be474)
+![Screen Shot 2023-12-28 at 3 29 15 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/dffca15c-4192-4cc4-a874-2e7a199d03eb)
 
 - Create the following plans:
   - **SEV-A**
-    - Grace Period: **1 hour** *(Amount, in hours, before tickets with tis SLA will become overdue if not closed in allotted time.)*
+    - Grace Period: **1 hour** *(Amount, in hours, before tickets with this SLA will become overdue if not closed in allotted time.)*
     - Schedule: **24/7**
   - **SEV-B**
      - Grace Period: **4 hours**
@@ -207,9 +207,13 @@ Here I outline the post-install configuration of the open-source help desk ticke
       - Schedule: **Monday - Friday: 8 a.m - 5 p.m (with U.S Holidays)**
 - Click `Add Plan` for each
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/6d82beb6-fa1d-41e7-ae69-592eebc078c8)
+![Screen Shot 2023-12-28 at 3 33 15 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/2a5f7cb4-ffb5-43e0-b38a-54aaf30677fa)
 
-  ![image](https://github.com/CarlosAlvarado0718/osTicket-PostConfig/assets/140138198/e9eca7cf-a46f-4f41-b6d6-ce59c2355876)
+![Screen Shot 2023-12-28 at 3 31 07 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/349b47fb-31b0-406a-8002-dad127bb741c)
+
+![Screen Shot 2023-12-28 at 3 32 03 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/76052909-f7d1-4217-b6f8-2f8810d57121)
+
+![Screen Shot 2023-12-28 at 3 32 27 AM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/c171277d-cbe6-4791-b6a5-098bdbaa619f)
 
 <h3>Creating Help Topics</h3>
 
