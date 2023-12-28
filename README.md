@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/wMEyTiC.png" alt="osTicket logo"/>
 </p>
 
 <h1 align="center">Post-Install Configuration</h1>
