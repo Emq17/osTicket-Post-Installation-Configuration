@@ -244,4 +244,4 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 - Great job. You have configured everything that we needed
 - We'll go ahead and wrap things up for this lab & I'll meet you on over to the next one where we will practice creating, triaging, and solving tickets.
-  <h3>NEXT TUTORIAL:  <a href="https://github.com/Emq17/osTicket-Ticket-Lifecycle-Examples">"Ticket Lifecycle Examples"</a>  </h3>
+  <h3>Next Tutorial:  <a href="https://github.com/Emq17/osTicket-Ticket-Lifecycle-Examples">"Ticket Lifecycle Examples"</a>  </h3>
