@@ -134,12 +134,14 @@ Here I outline the post-install configuration of the open-source help desk ticke
 ![Screen Shot 2023-12-27 at 5 47 07 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/839c7ef8-c29f-421b-af6e-7b44d2caed77)
 
 - CLick the `Access` tab:
-   - Assign Jane's `Primary Department` to **System Administrators**
-   - Assign Jane's `Role` to **Supreme Admin**
+     - Assign Jane's `Primary Department` to **System Administrators**
+     - Assign Jane's `Role` to **Supreme Admin**
+- Underneath `Extended Access`
+     - Assign Jane to `Support Department`
+     - Assign Jane's `Role` to Supreme Admin
 
-![Screen Shot 2023-12-27 at 5 55 47 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/cc3ec3e2-7cf4-4b25-b616-71351f5c9f1a)
+![Screen Shot 2023-12-28 at 7 33 59 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/240d6a81-1641-49fa-8486-3e67c368b0a9)
 
- 
 - Underneath `Teams`tab:
     - Assign Jane to `Level II Support`
     - Click `Add`
