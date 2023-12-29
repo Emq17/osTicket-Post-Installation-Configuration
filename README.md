@@ -156,10 +156,12 @@ Here I outline the post-install configuration of the open-source help desk ticke
 
 - Make John's `Primary Department`: **Support**
 - Assign John's `Role`: View Only
-- Underneath `Extended Access`: Support
+- Underneath `Extended Access`: Support (& also "View only")
 - Click on `Create`
 
-![Screen Shot 2023-12-27 at 6 01 53 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/4936b9ba-1edd-4c74-b096-46510cc89211)
+![Screen Shot 2023-12-28 at 7 42 18 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/344fc8d0-fd33-4823-abf1-1d98e7895a1c)
+
+![Screen Shot 2023-12-28 at 7 42 38 PM](https://github.com/Emq17/osTicket-Post-Installation-Configuration/assets/147126755/93ace8f2-87cb-4e1e-b56e-854d787f1f92)
 
 <h3>Creating Users</h3>
 
